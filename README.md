@@ -21,6 +21,4 @@ fill‐in‐the‐blank test items.
 
 Copyright © 2021 Bidyut Das
 
-The content of this repository is bound by the following licenses:
-
-- The documents and data are licensed under the MIT license.
+The documents and data of this repository are licensed under the MIT license
