@@ -1,5 +1,3 @@
-![Examples](img/database.jpg)
-
 ### Publication
 Das, B., Majumder, M., Phadikar, S., Sekh, A.A. Automatic generation of fill‐in‐the‐blank question with
 corpus‐based distractors for e‐assessment to enhance learning. 
