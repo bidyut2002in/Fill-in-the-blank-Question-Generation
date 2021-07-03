@@ -1,5 +1,5 @@
 ### Publication
-Das, Bidyut; Majumder, Mukta; Phadikar, Santanu; Sekh, Arif Ahmed Automatic generation of fill‐in‐the‐blank question with
+Das, Bidyut; Majumder, Mukta; Phadikar, Santanu; Sekh, Arif Ahmed. Automatic generation of fill‐in‐the‐blank question with
 corpus‐based distractors for e‐assessment to enhance learning. 
 Computer Applications in Engineering Education (2019). Wiley
 [Link to The Paper](https://doi.org/10.1002/cae.22163)
